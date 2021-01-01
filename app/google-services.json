@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "463608440600",
+    "firebase_url": "https://atm1-33cf3-default-rtdb.firebaseio.com",
+    "project_id": "atm1-33cf3",
+    "storage_bucket": "atm1-33cf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463608440600:android:fee024f4798fd7f55be06d",
+        "android_client_info": {
+          "package_name": "com.home.atm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463608440600-a286ve6c630mvf4nr2gcnjb484koe5nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsEnEvb9H-Tm5bjbCgvG8uDRtSiwqJ6ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463608440600-a286ve6c630mvf4nr2gcnjb484koe5nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
